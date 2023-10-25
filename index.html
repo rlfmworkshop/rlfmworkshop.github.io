@@ -2,17 +2,17 @@
 layout: home
 ---
 <figure>
-    <img src="/assets/img/imol_logo.png">
+    <img src="/assets/img/rlfm_logo.png">
 </figure>
 
 <center>
-    <h1>Intrinsically Motivated Open-ended Learning</h1>
+    <h1>Reinforcement Learning and Foundation Models</h1>
 </center>
 
 <br>
-<div class="subsubheading">NeurIPS 2023 in-person Workshop, December 16, New Orleans</div>
+<div class="subsubheading">ICLR 2024 hybrid Workshop, May 7th, Vienna, Austria</div>
 
-<div class="contact-heading"><a href='mailto:imol.workshop@gmail.com'>imol.workshop@gmail.com</a>.</div>
+<div class="contact-heading"><a href='mailto:rlfmworkshop@gmail.com'>rlfmworkshop@gmail.com</a>.</div>
 
 <hr class="small" style="border-width: 1pt; border-color: lightgray;">
 
@@ -31,111 +31,33 @@ layout: home
 <div class='description' style='font-size: 11pt;'>
 
     <h3 style='margin-bottom: 10pt;'>Description</h3>
-    <p>How do humans develop broad and flexible repertoires of knowledge and skills?
-        How can we design autonomous lifelong learning machines with the same abilities?</p>
-    <p>A promising computational and scientific approach to these questions comes from the study of <i>intrinsically motivated learning</i>, sometimes called
-        <i>curiosity-driven learning</i> (Oudeyer et al., 2007; Barto, 2013; Mirolli and Baldassarre, 2013, Schmidhuber, 2021); a framework that finds inspiration in the drive of
-        humans and other animals to seek "interesting" situations for their own sake (White,
-        1959; Berlyne, 1960; Deci and Ryan, 1985). These intrinsic motivations (IM) have evolved in animals to drive exploratory behaviors, an essential component of efficient
-        learning (Singh et al., 2010). When implemented in machines, they support the autonomous exploration of complex environments; a key component of many recent breakthrough
-        in reinforcement learning (Bellemare et al., 2016;
-        Pathak et al., 2017; Burda et al., 2019; Eysenbach et al., 2019; Warde-Farley et al., 2019; Pong et al.,
-        2020; Raileanu and Rocktäschel, 2020; Sekar et al., 2020; Ecoffet et al., 2021; Stooke et al., 2021;
-        Colas et al., 2022; Du et al., 2023; Adaptive Agent Team et al., 2023). In short, intrinsic motivations free artificial agents from relying on predefined learning signals and thereby offer a path towards autonomy
-        and open-ended learning, a longstanding objective in the field of artificial intelligence.
+    <p>
+        Reinforcement learning (RL) has long been proposed as a powerful paradigm for learning, from interaction, to solve sequential decision-making problems. Very recently, there has been a surge of work using RL to align large language models (LLMs) to human values through the paradigm of RL from human feedback (RLHF). Inspired by the idea of alignment through inverse reinforcement learning, these approaches use human preference data to learn a reward function approximating human values and use this reward to finetune LLMs with RL. RLHF has taken a step in helping solve the outstanding problems with language models by making them more similar to a conversational partner, more steerable, more relevant, and more aligned. Additionally, one can also see it the other way around: viewing instruction-following assistants as RL agents. These language-based models solve some of the problems of pure-RL agents such as the ability to flexibly multitask and use pretrained experience instead of being trained from scratch.
     </p>
-    <p>Despite recent successes, today’s agents still lack the autonomy and flexibility required to learn and thrive in realistic open-ended environments. Such versatility requires the capacity to generalize to domains different from the ones encountered at design time, to adaptively create goals and switch between them, and to integrate incremental learning of skills and knowledge over longer periods of time.
-        These issues are especially relevant for efforts to deploy artificial intelligence in the real world without human intervention, a topic of key concern in the NeurIPS community.
-    </p>
-    <p>Better understanding and engineering of such flexible learning systems will require fresh approaches and cross-disciplinary conversations. We propose to bring these
-        conversations to NeurIPS by introducing the growing field of <b> Intrinsically Motivated Open-ended Learning (IMOL) </b>.
-        Taking roots in developmental robotics (Lungarella et al., 2003; Cangelosi and Schlesinger, 2015) , IMOL aims at a unified study of the motivational forces, learning
-        architectures, and developmental and environmental constraints that support the development of open-ended repertoires of skills and knowledge over learners' lifetimes
-        (e.g. , Barto et al., 2004; Baldassarre, 2011; Baranes and Oudeyer,
-        2013; Kulkarni et al., 2016; Santucci et al., 2016; Eysenbach et al., 2019; Colas et al., 2022).
-    </p>
-    <p>More than a scientific approach, IMOL also represents <a href="https://www.imol-community.org/">an associated research community</a>
-        that emerged at the first IMOL workshop in 2009 and progressively developed into an active community across years of scientific events and activities.
-        With this full-day workshop, we propose to reflect on recent advances, showcase on-going research and discuss open challenges for the future of IMOL research. To this end, we will bring together speakers, presenters and attendees from a diversity of IMOL-related fields including robotics, reinforcement learning, developmental psychology, evolutionary psychology, computational cognitive science, and philosophy.
+    <p>
+        The aim of this workshop is to provide a stage for researchers in this exciting field to define common challenges and questions, to exchange and consolidate best practices, and to push the advance of tools and benchmarks. As an indication, this workshop aims to make progress on the following open questions:
+        <ul>
+        <li>  What are the advantages of fine-tuning LLMs with RL compared to behavioral cloning/supervised learning, and on what tasks? </li>
+        <li>  What are the recommended methods for training reward functions using human feedback? In what ways can various forms of feedback, such as preferences, demonstrations, and advice, be utilized? How can the quality of human feedback be assessed? </li>
+        <li>  What approaches should be considered when training RLLM agents using pretrained LMs? This includes considerations for hyperparameters, reproducibility, algorithms, generation strategies, and the use of parameter-efficient fine-tuning. </li>
+        <li>  How can RL be utilized to develop conversational AI that is capable of generating truthful responses? </li>
+        <li>  Can RLLM agents effectively handle tasks in formal domains that involve automated checks for completion, such as mathematics (using a proof system) or programming (interacting with a compiler or interpreter)? </li>
+        <li>  In what ways can game-playing agent techniques, such as self-play and multi-agent dynamics, be utilized to enhance the performance of RLLM agents? </li>
+        </ul>
+
+        The field is emerging, and we expect to formalize many other questions as the workshop takes place. The workshop will additionally aim at fostering discussions around the ethical implications of RLLM research (whose preferences are we optimizing?), as well as serve as a platform for the presentation of tools and frameworks that make training RLLM agents easier and more accessible to a wider community.
+        
+        
     </p>
 </div>
+
+<div style="text-align:center;"> <img src="assets/img/" alt="RLLM" width="500"> </div>
 
 <h3 style='margin-bottom: 10pt;'>References</h3>
 <div class='references' style='font-size:9pt'>
     <ul>
-        <li>Adaptive Agent Team, Jakob Bauer, Kate Baumli, Satinder Baveja, Feryal Behbahani, Avishkar Bhoopchand,
-            Nathalie Bradley-Schmieg, Michael Chang, Natalie Clay, Adrian Collister, et al. Human-timescale adaptation
-            in an open-ended task space. 2023. </li>
+        <li>Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, and Marc G Bellemare.
+            Beyond tabula rasa: Reincarnating reinforcement learning. arXiv preprint arXiv:2206.01626, 2022. </li>
 
-        <li>Gianluca Baldassarre. What are intrinsic motivations? a biological perspective. 2011.</li>
-
-        <li>Adrien Baranes and Pierre-Yves Oudeyer. Active learning of inverse models with intrinsically motivated goal
-            exploration in robots. 2013.</li>
-
-        <li>Andrew G. Barto. Intrinsic motivation and reinforcement learning. 2004.</li>
-
-        <li>Marc Bellemare, Sriram Srinivasan, Georg Ostrovski, Tom Schaul, David Saxton, and Remi Munos.
-            Unifying count-based exploration and intrinsic motivation. 2016.</li>
-
-        <li>Daniel E Berlyne. Conflict, arousal, and curiosity. 1960.</li>
-
-        <li>Yuri Burda, Harrison Edwards, Amos Storkey, and Oleg Klimov. Exploration by random network distillation. 2019.</li>
-
-        <li>Angelo Cangelosi and Matthew Schlesinger. Developmental robotics. 2015.</li>
-
-        <li>Cédric Colas, Tristan Karch, Olivier Sigaud, and Pierre-Yves Oudeyer. Autotelic agents with intrinsically
-            motivated goal-conditioned reinforcement learning: A short survey. 2022.</li>
-
-        <li>Edward L. Deci and Richard M. Ryan. Intrinsic Motivation and Self-Determination in Human Behavior. 1985.</li>
-
-        <li>Yuqing Du, Olivia Watkins, Zihan Wang, Cédric Colas, Trevor Darrell, Pieter Abbeel, Abhishek Gupta, and
-            Jacob Andreas. Guiding pretraining in reinforcement learning with large language models. 2023.</li>
-
-        <li>Adrien Ecoffet, Joost Huizinga, Joel Lehman, Kenneth O. Stanley, and Jeff Clune. First return, then explore.
-            2021.</li>
-
-        <li>Benjamin Eysenbach, Abhishek Gupta, Julian Ibarz, and Sergey Levine. Diversity is all you need: Learning
-            skills without a reward function. 2019.</li>
-
-        <li>Tejas D Kulkarni, Karthik Narasimhan, Ardavan Saeedi, and Josh Tenenbaum. Hierarchical deep reinforcement
-            learning: Integrating temporal abstraction and intrinsic motivation. 2016.</li>
-
-        <li>Max Lungarella, Giorgio Metta, Rolf Pfeifer, and Giulio Sandini. Developmental robotics: a survey. 2003.</li>
-
-        <li>Marco Mirolli and Gianluca Baldassarre. Functions and mechanisms of intrinsic motivations: The knowledge
-            versus competence distinction. 2013.</li>
-
-        <li>Pierre-Yves Oudeyer, Frédric Kaplan, and Verena V. Hafner. Intrinsic motivation systems for autonomous
-            mental development. 2007.</li>
-
-        <li>Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, and Trevor Darrell. Curiosity-driven exploration by
-            self-supervised prediction. 2017.</li>
-
-        <li>Vitchyr Pong, Murtaza Dalal, Steven Lin, Ashvin Nair, Shikhar Bahl, and Sergey Levine. Skew-fit: State-
-            covering self-supervised reinforcement learning. 2020.</li>
-
-        <li>Roberta Raileanu and Tim Rocktäschel. Ride: Rewarding impact-driven exploration for procedurally-generated
-            environments. 2020.</li>
-
-        <li>Vieri Giuliano Santucci, Gianluca Baldassarre, and Marco Mirolli. GRAIL: A goal-discovering robotic archi-
-            tecture for intrinsically-motivated learning. 2016.</li>
-
-        <li>Jürgen Schmidhuber. Artificial Curiosity & Creativity Since 1990-91. 2021, https://people.idsia.ch/~juergen/artificial-curiosity-since-1990.html.</li>
-
-        Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, and Deepak Pathak. Planning to
-        explore via self-supervised world models. 2020.</li>
-
-        <li>Satinder Singh, Richard L Lewis, Andrew G Barto, and Jonathan Sorg. Intrinsically motivated reinforcement
-            learning: An evolutionary perspective. 2010.</li>
-
-        <li>Adam Stooke, Anuj Mahajan, Catarina Barros, Charlie Deck, Jakob Bauer, Jakub Sygnowski, Maja Trebacz,
-            Max Jaderberg, Michael Mathieu, Nat McAleese, Nathalie Bradley-Schmieg, Nathaniel Wong, Nicolas Porcel,
-            Roberta Raileanu, Steph Hughes-Fitt, Valentin Dalibard, and Wojciech Marian Czarnecki. Open-ended
-            learning leads to generally capable agents. 2021.</li>
-
-        <li>David Warde-Farley, Tom Van de Wiele, Tejas Kulkarni, Catalin Ionescu, Steven Hansen, and Volodymyr
-            Mnih. Unsupervised control through non-parametric discriminative rewards. 2019.</li>
-
-        <li>Robert W. White. Motivation reconsidered: The concept of competence. 1959.</li>
     </ul>
 </div>

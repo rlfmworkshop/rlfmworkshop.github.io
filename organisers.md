@@ -7,34 +7,45 @@ subtitle:
 <div class="container">
   <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/cedric.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://ccolas.github.io/">Cédric Colas</a> <br> <p class='speaker-affiliation'>MIT; Inria</p></div>
+      <img class="organiser-img" src='/assets/img/hiteshi.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://hiteshis.github.io/">Hiteshi Sharma</a> <br> <p class='speaker-affiliation'>Microsoft</p></div>
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/felipe.jpeg'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://ffrujeri.github.io">Felipe Vieira Frujeri</a> <br> <p class='speaker-affiliation'>Univ  of Alberta</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/laetitia.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://scholar.google.com/citations?user=pW-r5kcAAAAJ">Laetitia Teodorescu</a> <br> <p class='speaker-affiliation'> Inria</p></div>
     </div>
+  </div>
+  <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/nadiamady.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://sites.ualberta.ca/~nmady/">Nadia Ady</a> <br> <p class='speaker-affiliation'>Univ  of Alberta</p></div>
+      <img class="organiser-img" src='/assets/img/shi.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://web.stanford.edu/~sdong15/">Shi Dong</a> <br> <p class='speaker-affiliation'>Google DeepMind</p></div>
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/banghua.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://people.eecs.berkeley.edu/~banghua/">Banghua Zhu</a> <br> <p class='speaker-affiliation'> UC Berkeley</p></div>
+    </div>
+    <div class="col-sm">
+      <img class="organiser-img" src='/assets/img/bill.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://www.zheqingbillzhu.com/">Zheqing (Bill) Zhu</a> <br> <p class='speaker-affiliation'>Meta AI</p></div>
     </div>
   </div>
-<div class="row">
+  <div class="row">
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/cansu_sancaktar.jpg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://is.mpg.de/person/csancaktar">Cansu Sancaktar</a> <br> <p 
-class='speaker-affiliation'>Max Planck Institute for Intelligent Systems</p></div>
+      <img class="organiser-img" src='/assets/img/clement.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://clementromac.github.io/">Clement Romac</a> <br> <p class='speaker-affiliation'>Inria</p></div>
     </div>
     <div class="col-sm">
-      <img class="organiser-img" src='/assets/img/junyi.png'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://junyichu.mit.edu/">Junyi Chu</a> <br> <p class='speaker-affiliation'> MIT</p></div>
+      <img class="organiser-img" src='/assets/img/thomas.png'>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://google.com">Thomas Carta</a> <br> <p class='speaker-affiliation'>Inria</p></div>
     </div>
-    <div class="col-sm">
-        </div>
   </div>
 </div>
 
-<h1 style="text-align:center; margin-bottom:20pt; !important"> Advisory Board </h1>
+<!-- <h1 style="text-align:center; margin-bottom:20pt; !important"> Advisory Board </h1>
 <div class="container">
 <div class="row">
     <div class="col-sm">
@@ -67,6 +78,5 @@ class='speaker-affiliation'> Institute of Cog. Sciences and Technologies of Ital
     </div>
   <div class="col-sm">
     </div>
-
   </div>
- </div>
+ </div> -->
