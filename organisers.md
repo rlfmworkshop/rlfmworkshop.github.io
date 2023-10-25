@@ -12,18 +12,18 @@ subtitle:
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/felipe.jpeg'>
-      <div class="organiser-name" style="text-align: center;"> <a href="https://ffrujeri.github.io">Felipe Vieira Frujeri</a> <br> <p class='speaker-affiliation'>Univ  of Alberta</p></div>
+      <div class="organiser-name" style="text-align: center;"> <a href="https://ffrujeri.github.io">Felipe Vieira Frujeri</a> <br> <p class='speaker-affiliation'>Microsoft</p></div>
     </div>
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/laetitia.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://scholar.google.com/citations?user=pW-r5kcAAAAJ">Laetitia Teodorescu</a> <br> <p class='speaker-affiliation'> Inria</p></div>
     </div>
-  </div>
-  <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/shi.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://web.stanford.edu/~sdong15/">Shi Dong</a> <br> <p class='speaker-affiliation'>Google DeepMind</p></div>
     </div>
+  </div>
+  <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/banghua.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://people.eecs.berkeley.edu/~banghua/">Banghua Zhu</a> <br> <p class='speaker-affiliation'> UC Berkeley</p></div>
@@ -32,8 +32,6 @@ subtitle:
       <img class="organiser-img" src='/assets/img/bill.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://www.zheqingbillzhu.com/">Zheqing (Bill) Zhu</a> <br> <p class='speaker-affiliation'>Meta AI</p></div>
     </div>
-  </div>
-  <div class="row">
     <div class="col-sm">
       <img class="organiser-img" src='/assets/img/clement.png'>
       <div class="organiser-name" style="text-align: center;"> <a href="https://clementromac.github.io/">Clement Romac</a> <br> <p class='speaker-affiliation'>Inria</p></div>
