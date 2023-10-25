@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: RLFM - Reinforcement Learning and Foundation Models 2023
+title: RLFM@ICLR 2024
 
 # Your name to show in the footer
 author: The organizing committee
@@ -33,7 +33,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/rlfm_logo.png"
+# title-img: "/assets/img/rlfm_logo.png"
 
 
 # --- Footer social media links --- #
@@ -41,11 +41,11 @@ title-img: "/assets/img/rlfm_logo.png"
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "rlfmworkshop@gmail.com"
+  email: "imol.workshop@gmail.com"
 #   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #   facebook: deanattali
 #   github: daattali
-  twitter: RLFM2023
+  twitter: RLFMICLR2023
 #   patreon: DeanAttali
 #   youtube: c/daattali
 #  medium: yourname
