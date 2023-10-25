@@ -44,7 +44,6 @@ In what ways can game-playing agent techniques, such as self-play and multi-agen
 The field is emerging, and we expect to formalize many other questions as the workshop takes place. The workshop will additionally aim at fostering discussions around the ethical implications of RLLM research (whose preferences are we optimizing?), as well as serve as a platform for the presentation of tools and frameworks that make training RLLM agents easier and more accessible to a wider community.
     </p>
 </div>
-<div style="text-align:center;"> <img src="assets/img/rllm.png" alt="RLLM" width="500"> </div>
 
 <h3 style='margin-bottom: 10pt;'>References</h3>
 <div class='references' style='font-size:9pt'>
@@ -64,7 +63,7 @@ as i say: Grounding language in robotic affordances. 2022. URL http://arxiv.org/
 
 <li>Arnav Arora, Lucie-Aimée Kaffee, and Isabelle Augenstein. Probing pre-trained language models
 for cross-cultural differences in values. (arXiv:2203.13722), 2022. URL http://arxiv.org/abs/2203.
-13722. type: article.</li>
+1.     type: article.</li>
 
 <li>Christopher Berner, Greg Brockman, Brooke Chan, Vicki Cheung, Przemysław D ̨ebiak, Christy
 Dennison, David Farhi, Quirin Fischer, Shariq Hashme, Chris Hesse, et al. Dota 2 with large scale
