@@ -208,7 +208,7 @@ subtitle:
 
     <div class="frame">
 
-      <img class="speaker-img" src='/assets/img/spearker_ben.jpeg'>
+      <img class="speaker-img" src='/assets/img/speaker_ben.jpeg'>
 
     </div>
 
@@ -216,7 +216,7 @@ subtitle:
 
   <div class="col-9">
 
-    <h4> <a href="https://rl.cs.mcgill.ca/people/doina-precup" target="_blank"> Benjamin Van Roy </a></h4>
+    <h4> <a href="https://web.stanford.edu/~bvr/" target="_blank"> Benjamin Van Roy </a></h4>
 
     <p class='speaker-affiliation'> Stanford University </p>
 
