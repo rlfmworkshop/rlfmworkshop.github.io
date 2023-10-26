@@ -136,8 +136,11 @@ h4{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  width: 7.1em;
+  height: 7.1em;
+  object-fit: cover;
 }
+
 .organiser-name{
   font-size: 16px;
 }
@@ -191,5 +194,7 @@ tr:nth-child(n+1), tr:nth-child(n+2) {
   border-radius: 50%;
   margin: auto;
   display: flex;
-  width: 75%;
+  width: 9.1em;
+  height: 9.1em;
+  object-fit: cover;
 }
