@@ -11,7 +11,7 @@ subtitle:
 
     <div class="frame">
 
-      <img class="speaker-img" src='/assets/img/speaker_prithviraj.jpg'>
+      <img class="speaker-img" src='/assets/img/speaker_prithviraj.jpeg'>
 
     </div>
 
@@ -50,7 +50,7 @@ subtitle:
 
     <div class="frame">
 
-      <img class="speaker-img" src='/assets/img/speaker_noah.jpg'>
+      <img class="speaker-img" src='/assets/img/speaker_noah.jpeg'>
 
     </div>
 
@@ -89,7 +89,7 @@ subtitle:
 
     <div class="frame">
 
-      <img class="speaker-img" src='/assets/img/speaker_julia.png'>
+      <img class="speaker-img" src='/assets/img/speaker_julia.jpeg'>
 
     </div>
 
@@ -164,7 +164,7 @@ subtitle:
 
     <div class="frame">
 
-      <img class="speaker-img" src='/assets/img/speaker_alane.jpeg'>
+      <img class="speaker-img" src='/assets/img/speaker_alane.png'>
 
     </div>
 
