@@ -45,6 +45,8 @@ The field is emerging, and we expect to formalize many other questions as the wo
     </p>
 </div>
 
+<div style="text-align:center;"> <img src="assets/img/rllm.png" alt="RLLM" width="500"> </div>
+
 <h3 style='margin-bottom: 10pt;'>References</h3>
 <div class='references' style='font-size:9pt'>
 <ul>
