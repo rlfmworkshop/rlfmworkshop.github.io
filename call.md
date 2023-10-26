@@ -15,13 +15,13 @@ Examples of topics include:
 
 <ul>
 
-<li>Reinforcement learning from human or AI feedback<li>
-<li>Foundation model as agents in games and robotics<li>
-<li>Building personalized models with RL<li>
-<li>Exploration with RL for FM<li>
-<li>Explainability and reproducibility in RL+FM experimentation<li>
-<li>Long-term planning<li>
-<li>Theoretical results <li>
+<li>Reinforcement learning from human or AI feedback</li>
+<li>Foundation model as agents in games and robotics</li>
+<li>Building personalized models with RL</li>
+<li>Exploration with RL for FM</li>
+<li>Explainability and reproducibility in RL+FM experimentation</li>
+<li>Long-term planning</li>
+<li>Theoretical results </li>
 
 </ul>
 </div>
